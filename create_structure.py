@@ -18,7 +18,8 @@ files = [
     "frontend.py",
     "requirements.txt",
     "README.md",
-    ".gitignore"
+    ".gitignore",
+    "eda.py"
 ]
 
 # Create folders
